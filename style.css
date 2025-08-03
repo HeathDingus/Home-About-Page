@@ -48,6 +48,7 @@ img {
 }
 
 .title {
+  font-family:'orbitron';
   margin-top:5px;
   text-align:center;
   text-decoration:underline;
@@ -56,6 +57,7 @@ img {
 }
 
 .desc {
+  font-family:'orbitron';
   text-align:center;
   color:white;
   font-size:15px;
